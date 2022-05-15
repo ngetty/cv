@@ -82,9 +82,13 @@ hr {
   bottom: 300px;
 }
 
+.profile {
+  width: 50%;
+}
+
 .pic {
   border-radius: 100%;
-  width: 15%;
+  width: 25%;
 }
 
 .code {
