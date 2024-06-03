@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #EAEAEA;
+  background-color: #FBFADA;
   margin: 0;
   font-family: 'Merriweather', sans-serif;
   color: #252A34;
@@ -24,10 +24,10 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #08D9D6;
+  color: #436850;
 }
 a {
-  color: #08D9D6;
+  color: #436850;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
@@ -43,14 +43,14 @@ p {
 
 hr {
   width: 5%;
-  border: dotted #252A34 10px;
+  border: dotted #12372A 10px;
   border-bottom: none;
   margin: 100px auto;
 }
 
 .top {
   padding-top: 100px;
-  background-color: #08D9D6;
+  background-color: #436850;
   position: relative;
 }
 
@@ -61,7 +61,7 @@ hr {
 
 .bottom {
   position: relative;
-  background-color: #252A34;
+  background-color: #12372A;
   padding: 50px 0 20px;
 }
 
@@ -132,7 +132,7 @@ hr {
 }
 
 .footer-text {
-  color: #EAEAEA;
+  color: #FBFADA;
   font-size: .75rem;
   padding: 20px 0 0;
 }
@@ -142,5 +142,5 @@ hr {
 }
 
 .cert-link {
-  color: #252A34;
+  color: #12372A;
 }
